@@ -1,0 +1,2 @@
+* matrix.vexillomancy.org custom files
+this is a repo with custom synapse templates and other misc custom files for matrix.vexillomancy.org
